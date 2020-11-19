@@ -155,7 +155,7 @@ Almost done! Change _back_ into the `my-repository` directory.
 
 8. Create a remote repository on [GitHub][github] using your personal GitHub
    account. When we create a blank repository, we are given instructions for
-   adding that repository as a remote.  Copy the first line (`git remote add
+   adding that repository as a remote.  Copy the figitrst line (`git remote add
    origin...`) and paste-and-run it from your command line to connect your local
    repository with the new remote one.
 
